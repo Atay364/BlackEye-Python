@@ -65,7 +65,6 @@ Please Choose A Number To Host Template:
     '8': 'netflix',
     '9': 'paypal',
     '10': 'origin',
-    '11': 'steam',
     '12': 'yahoo',
     '13': 'linkedin',
     '14': 'protonmail',
